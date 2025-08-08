@@ -1,6 +1,6 @@
 # 🏏 IPL Score Prediction using Deep Learning
 
-This project predicts the final score of an IPL innings using a deep learning model trained on match data from 2008–2020.
+This project predicts the final score of an IPL innings using a deep learning model trained on match data from 2008–2025.
 
 ## 📦 Requirements
 
@@ -12,3 +12,4 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
